@@ -7,7 +7,7 @@ Save it from your webbrowser to a local file under a name ali_cart_2020_12_04.js
 
 https://shoppingcart.aliexpress.com/api/1.0/cart/items.do?currentPage=0&uniqueId=10234
 
-Run the script. It will read all files named 'ali_cart_*.json', sort them according to the date in the file name and calculate the average price, the lowest price in the the data.\
+Run the script. It will read all files named 'ali_cart_*.json', sort them according to the date in the file name and calculate the average price, the lowest price in the the data.
 
 The script will print the contents of your ali shopping cart on the screen.
 
