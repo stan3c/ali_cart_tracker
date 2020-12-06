@@ -10,7 +10,9 @@ https://shoppingcart.aliexpress.com/api/1.0/cart/items.do?currentPage=0&uniqueId
 Run the script. It will read all files named 'ali_cart_*.json', sort them according to the date in the file name and calculate the average price, the lowest price in the the data.
 
 The script will print the contents of your ali shopping cart on the screen.
+
 nr      Product name                             Current price  Avg price  Min price
+
 1        VANSOALL Video Intercom Wired           47.44   USD     47.44   47.44
 
 Products priced higher than the lowest price ever recorded are printed in black
